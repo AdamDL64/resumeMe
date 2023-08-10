@@ -1,0 +1,27 @@
+{
+  "title": "Professional Experience",
+
+  "description": "Viverra tristique placerat massa est consectetur quisque nu fames lorem",
+
+  "posts": [
+    {
+      "to": "/single-blog",
+      "title": "Parttime Techinican",
+      "date": "May. 2017-Sept. 2022",
+      "category": "Parttime"
+    },
+    {
+      "to": "/single-blog",
+      "title": "Technician (Trainee)",
+      "date": "Apr.2020-Jun.2020",
+      "category": "Trainee"
+    },
+    {
+      "to": "/single-blog",
+      "title": "Graduation Project Mobile Application",
+      "date": "Apr. 2019 - Dec. 2019",
+      "category": "Graduation project"
+    }
+    
+  ]
+}

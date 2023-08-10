@@ -1,0 +1,37 @@
+{
+  "title": "SERVICES",
+  "description": "Lorem ipsum dolor sit amet consectetu adipiscing elit viverra tristique placerat",
+  "paragraphes": [
+    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Viverra tristique placerat in sat massa consectetur quisque. Nunc aces fames lectus in libero aliquet ertare feraso est lorem nunc dolor sit amet settera aces volutpat in voltare lupar est phasellus.",
+    "Faucibus sed tristique fames sed aliquet ultricies eget viverra arcu. Vitae faucibus diam consequat aecenas. Turpis metus sit diam purus leo in varius ac quam. Nunc amet tristique set volutpat [estars adipiscing](#) vulputate est phasellus. Volutpat faucibus per praesent aced nuncare voltare per settera lorem ipsum dolor."
+  ],
+  "servicesLinks": [
+    {
+      "to": "https://drive.google.com/file/d/1WIkrtBnzMiJj4QoYoCocCa-jIEbrscSV/view?usp=sharing",
+      "text": "DOWNLOAD CV"
+    },
+    {
+      "to": "https://github.com/AdamDL64",
+      "text": "GITHUB"
+    },
+    {
+      "to": "https://www.youtube.com/watch?v=7vSdwtHm5q0&list=RD7vSdwtHm5q0&start_radio=1",
+      "text": "YOUTUBE APPPROJECT"
+    }
+  ],
+  "servicesBoxes": [
+    {
+      "imageAltText": "serv icon",
+      "servTitle": "Big Data",
+      "servDesc": "โครงการเสริมสร้างประสบการณ์และยกระดับทักษะ big Dataสำหรับเยาวชนหลักสูตร Analyzing Data and Visual Report with Microsoft Power Bi ระหว่างวันที่ 7-8 พถษาคม"
+      
+    },
+    {
+      "imageAltText": "serv icon",
+
+      "servTitle": "Link",
+      "servDesc": "Link Solar Roof & Farm Cabling Solution"
+    }
+ 
+  ]
+}

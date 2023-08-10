@@ -1,0 +1,37 @@
+{
+  "title": "SKILLS",
+
+  "description": "Lorem ipsum dolor sit amet consectetu adipiscing elit viverra tristique placerat",
+  "paragraphe": "Viverra tristique placerat in sat massa consectetur quisque. Nunc aces fames lectus in libero aliquet ertare feraso est lorem nunc dolor sit amet settera aces volutpat in voltare lupar est phasellus. Faucibus sed tristique fames sed aliquet ultricies eget viverra arcu.",
+
+  "skillsHistory": [
+    {
+      "title": "Basic Programming /Language:",
+      "description": "HTML , CSS , C , JAVA , JAVASCRIPT"
+    },
+    {
+      "title": "frameworks & tools:",
+      "description": "React ,Node.js, bootstrap,Git desktop, postman,Visual Studio Code ,Mongodb"
+    },
+    {
+      "title": "Microsoft office:",
+      "description": "Word, Power Point ,Exce"
+    },
+    {
+      "title": "other:",
+      "description": " Set IP camera , Set IP switch ,Fusion splice Fiber optic cable."
+    }
+  ],
+
+  "skillsProgress": [
+    {
+      "name": "Thai",
+      "percentage": 78
+    },
+    {
+      "name": "English",
+      "percentage": 40
+    }
+   
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "homeLink": {
+    "to": "/",
+    "text": "ADAM DOLOH"
+  },
+
+  "navLinks": [
+    {
+      "to": "home",
+      "text": "Home"
+    },
+    {
+      "to": "about",
+      "text": "About"
+    },
+    {
+      "to": "services",
+      "text": "Services"
+    },
+    
+   
+    {  
+      
+      "to": "blog",
+      "text": "Experience"
+    },
+    {
+      "to": "skills",   
+      "text": "Skills"
+    },
+    {
+      "to": "contact",
+      "text": "Contact"
+    }
+  ],
+  "footLinks": [
+    {
+      "to": "https://twitter.com/?lang=th",
+      "text": "TW."
+    },
+    {
+      "to": "https://www.instagram.com/adam_dl128/?hl=id",
+      "text": "IN."
+    },
+    {
+      "to": "https://www.facebook.com/adamsk147",
+      "text": "FB."
+    }
+  ]
+  
+}
+
